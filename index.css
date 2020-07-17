@@ -1,1 +1,34 @@
 /* code starts here */
+
+* {
+    font-family: 'Roboto Mono', sans-serif;
+}
+
+nav {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+nav a {
+    border-radius: 20%;
+    text-decoration: none;
+    padding: 20px;
+    margin: 0 10px;
+    color: white;
+} 
+
+.plan {
+    background-color: #FF764E;
+    margin-left: 15%;
+}
+
+.learn {
+    background-color: #5ED3EB;
+    margin-left: 15%;
+
+}
+
+.involved {
+    background-color: #FFCD69;
+    margin-left: 10%;
+}
