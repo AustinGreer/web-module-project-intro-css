@@ -61,6 +61,13 @@ h1 {
 
 .header-text p {
     margin-left: 10%;
+}
 
-
+.section-one {
+    background-color: #DDB9A3;
+    color: white;
+    padding: 2%;
+    width: 80%; 
+    margin: 5%;
+}
 
