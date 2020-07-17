@@ -1,6 +1,10 @@
 /* code starts here */
 
+@import url("https://fonts.googleapis.com/css2?family=Chelsea+Market&family=Roboto+Mono:ital,wght@1,300&display=swap");
+
+
 * {
+    max-width: 100%;
     font-family: 'Roboto Mono', sans-serif;
 }
 
@@ -13,7 +17,6 @@ nav a {
     border-radius: 20%;
     text-decoration: none;
     padding: 20px;
-    margin: 0 10px;
     color: white;
 } 
 
@@ -32,3 +35,32 @@ nav a {
     background-color: #FFCD69;
     margin-left: 10%;
 }
+
+.header-div {
+    display: flex;
+    flex-flow: wrap row;
+}
+.header-img {
+    width: 20%;
+    border-radius: 60%;
+    margin-left: 5%;
+}
+
+.header-text {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    text-align: center;
+    margin-left: 5%;
+    }
+
+h1 {
+    margin-left: 5%;
+    font-family: 'Chelsea Market';
+}
+
+.header-text p {
+    margin-left: 10%;
+
+
+
