@@ -71,3 +71,19 @@ h1 {
     margin: 5%;
 }
 
+.fire-sec {
+    width: 50%;
+    
+}
+
+.fire-sec img {
+    width: 20%;
+    margin-left: 80%;
+}
+
+.fire-sec p {
+    margin-left: 60%;
+    width: 80%;
+    text-align: center;
+    font-size: 14px;
+}
